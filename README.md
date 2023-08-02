@@ -110,4 +110,3 @@ For example:
 
 The JavaScript implentation of [Herbert Kociemba's two-phase algorithm](http://kociemba.org/cube.htm) is from [cube.js](https://github.com/ldez/cubejs).
 
-### CFOP
